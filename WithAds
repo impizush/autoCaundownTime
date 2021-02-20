@@ -1,0 +1,57 @@
+<br /><div style="text-align: center;"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive Ads 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3032518203172077"
+     data-ad-slot="9487231108"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<script>
+   var count = 60; // Number of remaining seconds.
+   var counter; // Handle for the countdown event.
+   
+   function start() {
+    counter = setInterval(timer, 1000);
+   }
+
+
+   function timer() {
+    // Show the number of remaining seconds on the web page.
+    var output = document.getElementById("displaySeconds");
+    output.innerHTML = count;
+    
+    // Decrease the remaining number of seconds by one.
+    count--;
+    
+    // Check if the counter has reached zero.
+    if (count < 0) { // If the counter has reached zero...
+     // Stop the counter.
+     clearInterval(counter);
+     
+     // Start the download.
+     window.location.href = "https://www.lotbd.xyz/p/get-your-phone-number.html";
+     return;
+    }
+   }  
+   // Start the countdown timer when the page loads. 
+   window.addEventListener("load", start, false);
+  </script>
+
+
+<br />
+<h2 style="font-weight: bold; text-align: center;"><span style="color: red;">Your Bonus Coupon Code&nbsp;</span></h2><h2 style="font-weight: bold; text-align: center;"><span style="background-color: black; color: #fcff01;">Automatically Open in <span id="displaySeconds">10</span> Seconds.</span></h2><br />
+<br /><div style="text-align: center;"><b>&nbsp;</b><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive Ads 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3032518203172077"
+     data-ad-slot="1939913575"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><br /></div>
